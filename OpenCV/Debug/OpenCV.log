@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\deepanjali\desktop\opencv final version\final project part 2\opencv\main.cpp(39): warning C4018: '<' : signed/unsigned mismatch
+c:\users\deepanjali\desktop\opencv final version\final project part 2\opencv\main.cpp(48): warning C4018: '<' : signed/unsigned mismatch
+  OpenCV.vcxproj -> C:\Users\Deepanjali\Desktop\OPENCV FINAL VERSION\Final Project Part 2\Debug\OpenCV.exe
